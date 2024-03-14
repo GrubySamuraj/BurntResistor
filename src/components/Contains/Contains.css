@@ -1,0 +1,51 @@
+.ContainsTitle {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.ContainsTitle2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #f58438;
+}
+
+.containsText {
+    margin: 50px;
+}
+
+.number {
+    color: #A0A0A0;
+    font-size: 31px;
+    font-weight: 700;
+}
+
+.containItemTitle {
+    color: #FFF;
+    text-align: center;
+}
+
+.ContainTitle {
+    font-size: 31px;
+    font-weight: 700;
+}
+
+.containItem {
+    border-radius: 31px;
+    padding: 50px;
+    margin: 50px 400px;
+    border: 2px solid #272727;
+    text-align: justify;
+}
+
+.content {
+    color: #A0A0A0;
+}
+
+.line {
+    margin: 20px 350px;
+    padding: 1px;
+    border: none;
+    height: 1px;
+    color: #333;
+    background-color: #333;
+}

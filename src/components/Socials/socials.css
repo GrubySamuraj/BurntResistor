@@ -1,0 +1,33 @@
+.socialsContainer {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.socialMediaTextContainer {
+    text-align: center;
+}
+
+.socialMediaText1,
+.socialMediaText2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.socialMediaText2 {
+    color: #f58438;
+}
+
+.socialMedia {
+    width: 50px;
+    height: 50px;
+    margin: 0px 30px;
+}
+
+.socialMediaIcons {
+    display: flex;
+    margin: 50px;
+}

@@ -1,0 +1,37 @@
+.RatingContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px 0px;
+}
+
+.RatingTitle1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.RatingTitle2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #f58438;
+}
+
+.RatingTitleContainer {
+    text-align: center;
+}
+
+.Reviews {
+    display: flex;
+    flex-direction: row;
+}
+
+.reviewContainer {
+    margin: 20px 80px;
+}
+
+.userText {
+    color: #f58438;
+    font-size: 20px;
+    font-weight: 600;
+}

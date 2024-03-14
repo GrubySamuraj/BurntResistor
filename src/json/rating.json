@@ -1,0 +1,9 @@
+{
+  "ratings": [
+    { "id": 0, "user": "Szymon Stanek", "content": "zajebiste", "stars": 5 },
+    { "id": 1, "user": "Dawid Mazur", "content": "chuj", "stars": 1 },
+    { "id": 2, "user": "Jakub Zieliński", "content": "EEEEEEE", "stars": 2 },
+    { "id": 3, "user": "Jakub Dragosz", "content": "help me", "stars": 4 },
+    { "id": 4, "user": "Michał Soszka", "content": "Je pierożka", "stars": 3 }
+  ]
+}

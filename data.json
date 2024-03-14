@@ -1,0 +1,24 @@
+{
+    "data":{
+        "header":{
+            "buttons":[
+                {
+                    "name":"dla klientów",
+                    "router":"/dlaklientow"
+                },
+                {
+                    "name":"dla firm",
+                    "router":"/dlafirm"
+                },
+                {
+                    "name":"kontakt",
+                    "router":"/kontakt"
+                },
+                {
+                    "name":"o nas",
+                    "router":"/onas"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+.contactContainer2 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    margin: 50px 550px;
+}
+
+.contactTitle {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.contactText {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.emailContainer,
+.phoneContainer {
+    display: flex;
+    padding: 8px 32px;
+    align-content: center;
+    justify-content: space-between;
+    align-self: stretch;
+}
+
+.contactButton {
+    background-color: #f58438;
+    padding: 4px 16px 4px 16px;
+    width: 240px;
+    height: 28px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+}
+
+.emailText,
+.phoneText {
+    font-size: 20px;
+    font-weight: 600;
+}

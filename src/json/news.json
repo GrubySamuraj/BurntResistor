@@ -1,0 +1,53 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Nasze ostatnie zlecenie",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 1,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 2,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Lorem ipsum dolor sit amet",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 3,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Michał ma dziewczynę",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 4,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Michał ma dziewczynę",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 5,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Michał ma dziewczynę",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    },
+    {
+      "id": 6,
+      "image": "placeHolder",
+      "button-text": "Zobacz naszą pełną ofertę",
+      "title": "Michał ma dziewczynę",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed velit eros, convallis sit amet ullamcorper a, mattis ut lectus. Nulla lobortis nisl sed dolor scelerisque volutpat nec sit amet purus. Sed eu diam enim. Donec varius odio."
+    }
+  ]
+}

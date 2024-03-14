@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "title": "Naprawy i Serwis Komputerów PC",
+      "content": "Nasza doświadczona ekipa techników jest gotowa przyjść z pomocą, gdy Twój komputer wymaga naprawy lub konserwacji. Bez względu na to, czy jest to problem z hardwarem, oprogramowaniem, wirusami czy innym nieprawidłowym działaniem, naprawimy go szybko i skutecznie."
+    },
+    {
+      "title": "Instalacje Oprogramowania",
+      "content": "Pomagamy w instalacji, konfiguracji i aktualizacji oprogramowania na Twoim komputerze. Niezależnie od tego, czy potrzebujesz pomocy z systemem operacyjnym, programami biurowymi, czy innymi aplikacjami, jesteśmy tu, aby ułatwić Ci życie cyfrowe."
+    },
+    {
+      "title": "Pomoc Techniczna",
+      "content": "Nasz zespół służy wsparciem technicznym w przypadku wszelkich problemów związanych z komputerami. Odpowiadamy na pytania, rozwiązujemy trudności z urządzeniami, udzielamy porad dotyczących bezpieczeństwa i wiele więcej."
+    }
+  ]
+}

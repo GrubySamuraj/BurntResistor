@@ -1,0 +1,19 @@
+.footer {
+    color: rgba(160, 160, 160, 1);
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+.creator {
+    margin: 20px;
+}
+
+.footerText {
+    margin-right: 50px;
+}
+
+.logo {
+    margin: 0px 20px;
+}

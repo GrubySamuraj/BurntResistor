@@ -1,0 +1,38 @@
+.who {
+    background-color: #272727;
+    border-radius: 30px;
+    padding: 50px;
+    display: flex;
+}
+
+.whoContainer {
+    display: flex;
+    padding: 10vh;
+}
+
+.imgContainer {
+    width: 340px;
+    height: 340px;
+    border-radius: 20px;
+    border: 4px solid orange
+}
+
+.textsWho {
+    display: flex;
+    flex-direction: column;
+    margin: 30px 50px;
+}
+
+.titleWho {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: start;
+}
+
+.textWho {
+    text-align: justify;
+}
+
+.imgWho {
+    border-radius: 20px;
+}
